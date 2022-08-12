@@ -1,3 +1,5 @@
+//Grafo que está representado como Jsonlist en un objeto que tenemos los índices y los bordes de a que nodo conecta
+
 class Graph {
     constructor() {
       this.nodes = 0;
